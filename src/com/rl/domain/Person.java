@@ -5,5 +5,4 @@ public class Person {
     private String nmae;
     private String addre;
 
-
 }
